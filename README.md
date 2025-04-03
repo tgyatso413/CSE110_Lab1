@@ -1,2 +1,1 @@
-# CSE110_Lab1
-To be used for CSE110's first lab.
+Teddy's User Page
